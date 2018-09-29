@@ -1,0 +1,5 @@
+results/*
+*.txt
+*.png
+*.tsv
+*.pyc
